@@ -1,7 +1,1 @@
-Edit this file to add assembly instructions
-
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+I assembled mine by gluing and finish nailing all the components together. After sanding all the components, I stained and sealed it with polyeurathane. I attached it to the wall using wood screws on finish washers.
